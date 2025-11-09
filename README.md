@@ -1,4 +1,4 @@
-This is the repository of the short course on **Modeling and Quantification of Uncertainties in Physical Systems**, taught by Prof. Americo Cunha Jr (LNCC/UERJ).
+This is the repository of the short course on **Modeling and Quantification of Uncertainties in Physical Systems**, taught by Prof. Americo Cunha Jr (LNCC & UERJ).
 
 Slides of lectures, references and codes used in the computational activities are available here.
 
